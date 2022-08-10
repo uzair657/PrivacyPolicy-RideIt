@@ -205,7 +205,8 @@ We may share your personal information after it is aggregated or otherwise anony
 
 Your rights and choices
 
-Accessing and updating your information. You may access, review and update certain profile information and other information you have chosen to provide to us either in your account settings or by contacting user support at support@indriver.com.
+Accessing and updating your information. You may access, review and update certain profile information and other information you have chosen to provide to us either in your account settings or by contacting user support at rideitofficial.pk@gmail.com
+
 
 Sharing location information. Your device may have controls that determine what information we collect or how we can use that information. For example, you can prevent your device from sharing location information through your device’s system settings. This will, however, impact our ability to provide you with the full range of Services.
 
@@ -217,9 +218,9 @@ Managing cookies. You can delete cookies and modify your cookie settings on your
 
 Do Not Track. Some browsers transmit “do-not-track” signals to websites. Because of differences in how browsers incorporate and activate this feature, we currently do not take action in response to these signals.
 
-Deleting your account and data. You can delete your account through the App settings or request the deletion of your account or your data by contacting user support at support@indriver.com. You may be asked to verify your account and identity. In some cases, we will be unable to delete your account or may retain certain information for legitimate business purposes, such as to complete the transaction for which we collected the personal information, collect on an outstanding balance, detect cybersecurity threats, debug or repair our Services, ensure another User’s right to exercise their free speech rights or other legal rights, enable solely internal uses that are reasonably aligned with the context for which the personal information was provided, prevent fraud, comply with legal or regulatory obligations, or to manage any claims in relation to the Services. When we retain such data, we do so in ways designed to prevent its use for other purposes.
+Deleting your account and data. You can delete your account through the App settings or request the deletion of your account or your data by contacting user support at rideitofficial.pk@gmail.com You may be asked to verify your account and identity. In some cases, we will be unable to delete your account or may retain certain information for legitimate business purposes, such as to complete the transaction for which we collected the personal information, collect on an outstanding balance, detect cybersecurity threats, debug or repair our Services, ensure another User’s right to exercise their free speech rights or other legal rights, enable solely internal uses that are reasonably aligned with the context for which the personal information was provided, prevent fraud, comply with legal or regulatory obligations, or to manage any claims in relation to the Services. When we retain such data, we do so in ways designed to prevent its use for other purposes.
 
-Asking us questions or raising a complaint. We will be happy to answer any questions you may have about this policy or about how we treat your information, or if you wish to make a complaint about how we have handled your personal information. Please, contact us at support@indriver.com. We will respond to your request consistent with applicable law and subject to proper verification of your account and identity.
+Asking us questions or raising a complaint. We will be happy to answer any questions you may have about this policy or about how we treat your information, or if you wish to make a complaint about how we have handled your personal information. Please, contact us at rideitofficial.pk@gmail.com We will respond to your request consistent with applicable law and subject to proper verification of your account and identity.
 
  
 
