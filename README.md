@@ -112,7 +112,7 @@ For information about how to opt out of certain marketing communications (includ
 
 6. Automated decision-making. We use personal information to make automated decisions relating to your use of our Services:
 
--  connecting Drivers and Riders (or other types of Users, as the case may be), based on such factors as availability and proximity;
+-  connecting Drivers and Riders (or other types of Users, as the case may be), based on such factors as availability and proximity
 
 -  determining User ratings, and deactivating users with low ratings;
 
@@ -120,7 +120,7 @@ For information about how to opt out of certain marketing communications (includ
 
 -   recommending an average price of a ride, based on such factors as distance, location and time.
 
-Where required by law, actions based on such processing occur only after human review and/or the possibility to appeal.
+Where required by law, actions based on such processing occur only after human review and/or the possibility to appeal
 
  
 
