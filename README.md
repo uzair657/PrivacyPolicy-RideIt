@@ -62,13 +62,13 @@ We use the personal information we collect:
 
 -  create and maintain your account, settings, and preferences;
 
--  verify your identity;
+-  verify your identity
 
--  enable transportation services, or other services, as may be the case;
+-  enable transportation services, or other services, as may be the case
 
--  calculate prices and facilitate payments;
+-  calculate prices and facilitate payments
 
--  enable communications between Users;
+-  enable communications between Users
 
 -  provide user support;
 
